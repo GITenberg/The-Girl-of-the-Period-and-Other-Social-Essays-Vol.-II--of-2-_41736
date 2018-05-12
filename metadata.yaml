@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4835
     wikipedia: http://en.wikipedia.org/wiki/Eliza_Lynn_Linton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41736#The-Girl-of-the-Period-and-Other-Social-Essays-Vol.-II--of-2-
 gutenberg_issued: '2012-12-30'
 gutenberg_type: Text
 identifiers:
